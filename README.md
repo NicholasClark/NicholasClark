@@ -1,8 +1,8 @@
-### Hi there 👋
+Bioinformatics research scientist at [@Thomas Lab](https://www.stjude.org/research/labs/thomas-lab.html).
 
-I work at [@sorgerlab](https://github.com/sorgerlab) and [@labsyspharm](https://github.com/labsyspharm) on a variety of computational biology projects, formerly at [@uc-bd2k](https://github.com/uc-bd2k) :) 👨‍💻👨‍🔬
+Previously a postdoctoral research fellow at [@sorgerlab](https://github.com/sorgerlab)/[@labsyspharm](https://github.com/labsyspharm) and  [@uc-bd2k](https://github.com/uc-bd2k) :) 👨‍💻👨‍🔬
 
-I recently finished my PhD (Dec. 2021) in Biostatistics and Bioinformatics at the University of Cincinnati.
+I completed my PhD in Biostatistics and Bioinformatics at the University of Cincinnati in December 2021.
 
 ### My projects:
 
