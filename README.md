@@ -1,13 +1,13 @@
-Bioinformatics research scientist at [@Thomas Lab](https://www.stjude.org/research/labs/thomas-lab.html).
+Bioinformatics Research Scientist in the [Thomas Lab](https://www.stjude.org/research/labs/thomas-lab.html) at St. Jude Children's Research Hospital (Memphis, TN).
 
-Previously a postdoctoral research fellow at [@sorgerlab](https://github.com/sorgerlab)/[@labsyspharm](https://github.com/labsyspharm) and graduate research assistant at [@uc-bd2k](https://github.com/uc-bd2k) :) 👨‍💻👨‍🔬
+Previously a Postdoctoral Research Fellow in the [Laboratory for Systems Pharmacology](https://labsyspharm.org/) at Harvard Medical School (Boston, MA).
 
-I completed my PhD in Biostatistics and Bioinformatics at the University of Cincinnati in December 2021.
+:) 👨‍💻👨‍🔬
 
 ### My projects:
 
-- 🧬 [iPAS (integrative Pathway Activity Signatures)](https://etd.ohiolink.edu/apexprod/rws_olink/r/1501/10?clear=10&p10_accession_num=ucin1636388600164669) - A method for construction of transcriptional signatures that are predictive of signaling pathway perturbation in cells. Our method is "integrative" in that it combines data from many cell lines to create "ensemble" signatures that improve predictions
-- 🧫 [iLINCS](http://www.ilincs.org/) - A web portal for analyzing transcriptional data using perturbation signatures from the [LINCS project](https://lincsproject.org/). Our [pre-print](https://doi.org/10.1101/826271) is available on Biorxiv.
+- 🧬 [iPAS (integrative Pathway Activity Signatures)](https://github.com/NicholasClark/iPAS/) - A method for construction of transcriptional signatures that are broadly predictive of signaling pathway perturbation in cancer cell lines. Our method combines data from many cell lines to create "ensemble" signatures with improved performance. [Pre-print](https://doi.org/10.1101/2022.06.03.494712) available on BioRxiv and R package available [https://github.com/NicholasClark/iPAS/](here).
+- 🧫 [iLINCS](http://www.ilincs.org/) - A web portal for analyzing transcriptional data using perturbation signatures from the [LINCS project](https://lincsproject.org/). Published in Nature Communications [Pilarczyk et al.](https://www.nature.com/articles/s41467-022-32205-3).
 - 📐 [GRmetrics R package](https://bioconductor.org/packages/release/bioc/html/GRmetrics.html) - A software package for implementing improved cell viability metrics based on changes in growth-rate due to drug treatment. Based on the work of [Hafner et al. (Nature Methods 2016)](https://doi.org/10.1038/nmeth.3853)
 - 🧮 [GR Calculator](http://www.grcalculator.org) - A user-friendly web extension of the GRmetrics R package, [Clark et al. (BMC Cancer 2017)](https://doi.org/10.1186/s12885-017-3689-3)
 - 🧪 [Small Molecule Suite](https://labsyspharm.shinyapps.io/smallmoleculesuite/) - A web tool to help scientists understand the targets of molecular probes, approved drugs, and other drug-like molecules. Based on the work of [Moret et al. (Cell Chemical Biology 2019)](https://doi.org/10.1016/j.chembiol.2019.02.018)
