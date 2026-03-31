@@ -1,4 +1,6 @@
-Bioinformatics Research Scientist in the [Thomas Lab](https://www.stjude.org/research/labs/thomas-lab.html) at St. Jude Children's Research Hospital (Memphis, TN).
+Senior Staff Scientist at the Thomas Lab at the Fred Hutch Cancer Center (Seattle, WA).
+
+Formerly Bioinformatics Research Scientist at St. Jude Children's Research Hospital (Memphis, TN).
 
 Previously a Postdoctoral Research Fellow in the [Laboratory for Systems Pharmacology](https://labsyspharm.org/) at Harvard Medical School (Boston, MA).
 
