@@ -2,15 +2,18 @@ Senior Staff Scientist in the Thomas Lab at Fred Hutch Cancer Center (Seattle, W
 
 PhD in Biostatistics and Bioinformatics (2021) 👨‍💻👨‍🔬
 
-### Current projects
-- 🐢 [TIRTLtools](https://nicholasclark.github.io/TIRTLtools/) - An R package for processing, analysis, and visualization of T-cell receptor repertoire data created using TIRTL-seq, a novel T-cell receptor sequencing (TCR-seq) assay that extracts paired-chain αβ-TCR data from biological samples at a significantly lower cost than single-cell TCR sequencing.
+### Current projects:
+- 🐢 [TIRTLtools](https://nicholasclark.github.io/TIRTLtools/) - An R package for processing, analysis, and visualization of T-cell receptor repertoire data created using [TIRTL-seq](https://doi.org/10.1038/s41592-025-02984-w), a novel T-cell receptor sequencing (TCR-seq) assay that extracts paired-chain αβ-TCR data from biological samples at a significantly lower cost than single-cell TCR sequencing.
 
-### Publications: 
+### Links: 
 
+- 📚 [Recent publications - Google Scholar](https://scholar.google.com/citations?hl=en&user=bMV1JMkAAAAJ&view_op=list_works&sortby=pubdate)
 - 🆔 [ORCID](https://orcid.org/0000-0003-0105-9605)
-- 📚 [Google Scholar](https://scholar.google.com/citations?user=bMV1JMkAAAAJ)
 
-### Former positions
+<br>
+<br>
+
+### Former positions:
 - Bioinformatics Research Scientist in the Thomas Lab at St. Jude Children's Research Hospital (Memphis, TN) - 2025-2026
 - Postdoctoral Research Fellow in the [Laboratory for Systems Pharmacology](https://labsyspharm.org/) (PI: Peter K. Sorger) at Harvard Medical School (Boston, MA). - 2021-2025
 - Graduate Research Assistant in the The Laboratory for Statistical Genomics and Systems Biology (PI: Mario Medvedovic) at University of Cincinnati (Cincinnati, OH). - 2014-2021
